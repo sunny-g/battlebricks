@@ -1,0 +1,8 @@
+{
+  "name": "battlebricks",
+  "version": "0.0.1",
+  "dependencies": {
+    "babylonjs": "2.0.0"
+  },
+  "private": true
+}
